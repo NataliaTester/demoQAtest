@@ -53,5 +53,5 @@ Place the WebDriver executable in a directory included in your system's PATH or 
 
 Run test scripts - 
 ```bash
-py.test --browser_name=chrome -v -s
+python your_script.py
 ```
